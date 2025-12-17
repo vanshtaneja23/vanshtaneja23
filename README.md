@@ -41,7 +41,7 @@ I recently built a **Distributed Video Streaming Platform** from scratch!
 
 ---
 <div align="center">
-  <a href="https://linkedin.com/in/vansh-taneja">
+  <a href="https://www.linkedin.com/in/vansh-taneja-a10746238/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vanshtaneja23@gmail.com">
