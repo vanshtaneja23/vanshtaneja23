@@ -9,6 +9,7 @@ I'm a **Computer Science Student** at the **University of Alberta** specializing
 
 *   🔭 I’m currently working on **Micro-Netflix** and **Generative AI Models**.
 *   🌱 I’m currently learning **Advanced Distributed Systems** and **Computer Vision**.
+*   ⚽ When I'm not coding, you can find me watching **Football** or exploring new tech.
 *   💬 Ask me about **.NET, React, Python, or Machine Learning**.
 *   ⚡ Fun fact: I built a Netflix clone from scratch!
 *   🌐 **Portfolio**: [Check out my work here!](https://vansh-portfolio-zhib.onrender.com)
@@ -62,7 +63,7 @@ I'm a **Computer Science Student** at the **University of Alberta** specializing
 
 ### 🏆 Certifications
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS_Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
