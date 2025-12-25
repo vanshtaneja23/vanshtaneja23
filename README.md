@@ -1,96 +1,100 @@
 # Hi there, I'm Vansh Taneja! 👋👨‍💻
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" style="border-radius: 10px; object-fit: cover;"/>
 </div>
 
-### 🚀 About Me
-I'm a **Computer Science Student** at the **University of Alberta** specializing in **AI/ML** and **Full-Stack Development**. I love building distributed systems, training models, and creating "crazy" projects.
+<div align="center">
+  
+  ### 🚀 **Full-Stack Engineer | AI Specialist | Distributed Systems Architect**
+  
+  *Building the future of software, one microservice at a time.*
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-taneja-a10746238/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-portfolio-zhib.onrender.com)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshtaneja23@gmail.com)
 
-*   🔭 I’m currently working on **Micro-Netflix** and **Generative AI Models**.
-*   🌱 I’m currently learning **Advanced Distributed Systems** and **Computer Vision**.
-*   ⚽ When I'm not coding, you can find me watching **Football** or exploring new tech.
-*   💬 Ask me about **.NET, React, Python, or Machine Learning**.
-*   ⚡ Fun fact: I built a Netflix clone from scratch!
-*   🌐 **Portfolio**: [Check out my work here!](https://vansh-portfolio-zhib.onrender.com)
-
----
-
-### 🛠️ Tech Stack
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-**Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-**Backend & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-**AI & Machine Learning**
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-**Databases & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 🏆 Certifications
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 🌟 Featured Project: Micro-Netflix
-I recently built a **Distributed Video Streaming Platform** from scratch!
-*   **Architecture**: Microservices (API, Worker, Frontend)
-*   **Tech**: .NET 8, RabbitMQ, MinIO, Docker
-*   **Repo**: [Check it out here!](https://github.com/vanshtaneja23/micro-netflix)
+### 👨‍💻 About Me
+I'm a **Computer Science Student** at the **University of Alberta**, driven by a passion for complex systems. I don't just write code; I engineer scalable, distributed solutions that solve real-world problems.
+
+- 🔭 **Currently Building:** **[Aether](https://github.com/vanshtaneja23/Aether)** - An intelligent distributed logistics engine.
+- 🌱 **Deep Diving:** Advanced Distributed Systems, Computer Vision, and Generative AI.
+- ⚡ **Philosophy:** "If it works, optimize it. If it breaks, learn from it."
+
+---
+
+### 🌟 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌌 Aether</h3>
+      <p align="center"><strong>Intelligent Distributed Logistics Engine</strong></p>
+      <p>A high-performance logistics platform that optimizes delivery routes in real-time using AI and Event-Driven Architecture.</p>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/vanshtaneja23/Aether"><strong>View Repository »</strong></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🍿 Micro-Netflix</h3>
+      <p align="center"><strong>Distributed Video Streaming Platform</strong></p>
+      <p>A scalable video streaming service built from scratch with microservices architecture, handling transcoding and streaming.</p>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/MinIO-C72C48?style=flat-square&logo=minio&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/vanshtaneja23/micro-netflix"><strong>View Repository »</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Core** | **Frontend** | **Backend & Cloud** | **AI & Data** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,java,cs,cpp" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" /> | <img src="https://skillicons.dev/icons?i=dotnet,go,docker,kubernetes,aws" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,postgres,mongodb" /> |
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshtaneja23&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshtaneja23&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshtaneja23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshtaneja23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="180" alt="languages graph" />
 </div>
 
-### 🐍 Contribution Snake
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+<br>
+
+<div align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+</div>
 
 ---
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/vansh-taneja-a10746238/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vanshtaneja23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <p><i>"The best way to predict the future is to invent it."</i></p>
 </div>
