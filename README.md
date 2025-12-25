@@ -83,11 +83,12 @@ I'm a **Computer Science Student** at the **University of Alberta**, driven by a
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshtaneja23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshtaneja23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vanshtaneja23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanshtaneja23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="180" alt="languages graph" />
 </div>
 
 <br>
+
 
 <div align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
