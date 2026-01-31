@@ -49,10 +49,11 @@ focus:
 
 <hr/>
 
+
 <h2>Active System — Aether</h2>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/futurithmic-3q0h46XjxT0kdCih6M" width="85%" />
+  <img src="https://giphy.com/gifs/4x4-afn-worldpartners-ibkOFH3P9rGk7tKn4z" width="50%" />
 </p>
 
 <b>Aether — Real-Time Distributed Logistics Engine</b>
@@ -78,6 +79,7 @@ It is a streaming, stateful decision problem under strict latency constraints.
 </p>
 
 🔗 https://github.com/vanshtaneja23/Aether
+
 
 <hr/>
 
