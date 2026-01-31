@@ -1,101 +1,171 @@
-# Hi there, I'm Vansh Taneja! 👋👨‍💻
+<h1 align="center">Vansh Taneja</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" style="border-radius: 10px; object-fit: cover;"/>
-</div>
+<h3 align="center">
+Software Engineer • AI Systems • Distributed Infrastructure
+</h3>
 
-<div align="center">
-  
-  ### 🚀 **Full-Stack Engineer | AI Specialist | Distributed Systems Architect**
-  
-  *Building the future of software, one microservice at a time.*
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-taneja-a10746238/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-portfolio-zhib.onrender.com)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshtaneja23@gmail.com)
+<p align="center">
+<i>Designing production systems where scale, latency, and failure are first-class concerns.</i>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="50%" />
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanshtaneja23&label=Profile+Views&style=for-the-badge&color=0d1117" />
+  <img src="https://img.shields.io/github/followers/vanshtaneja23?style=for-the-badge&color=0d1117" />
+</p>
 
-### 👨‍💻 About Me
-I'm a **Computer Science Student** at the **University of Alberta**, driven by a passion for complex systems. I don't just write code; I engineer scalable, distributed solutions that solve real-world problems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vansh-taneja-a10746238/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vanshtaneja23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://vansh-portfolio-zhib.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-System_Overview-000000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
-- 🔭 **Currently Building:** **[Aether](https://github.com/vanshtaneja23/Aether)** - An intelligent distributed logistics engine.
-- 🌱 **Deep Diving:** Advanced Distributed Systems, Computer Vision, and Generative AI.
-- ⚡ **Philosophy:** "If it works, optimize it. If it breaks, learn from it."
+<hr/>
 
----
+<h2>System Profile</h2>
 
-### 🌟 Featured Projects
+<pre>
+name: Vansh Taneja
+role: Software Engineer (AI + Distributed Systems)
+education: Computer Science (AI Option), University of Alberta
+operating_mode: production-first
+focus:
+  - Event-driven architecture
+  - Real-time decision systems
+  - AI under latency constraints
+</pre>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌌 Aether</h3>
-      <p align="center"><strong>Intelligent Distributed Logistics Engine</strong></p>
-      <p>A high-performance logistics platform that optimizes delivery routes in real-time using AI and Event-Driven Architecture.</p>
-      <br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      </p>
-      <div align="center">
-        <a href="https://github.com/vanshtaneja23/Aether"><strong>View Repository »</strong></a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🍿 Micro-Netflix</h3>
-      <p align="center"><strong>Distributed Video Streaming Platform</strong></p>
-      <p>A scalable video streaming service built from scratch with microservices architecture, handling transcoding and streaming.</p>
-      <br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/MinIO-C72C48?style=flat-square&logo=minio&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-      <div align="center">
-        <a href="https://github.com/vanshtaneja23/micro-netflix"><strong>View Repository »</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
+<b>I don’t build demos.</b><br/>
+<b>I design systems with explicit failure modes.</b>
 
----
+<hr/>
 
-### 🛠️ Technical Arsenal
+<h2>Active System — Aether</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://giphy.com/gifs/futurithmic-3q0h46XjxT0kdCih6M" width="85%" />
+</p>
 
-| **Core** | **Frontend** | **Backend & Cloud** | **AI & Data** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python,java,cs,cpp" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" /> | <img src="https://skillicons.dev/icons?i=dotnet,go,docker,kubernetes,aws" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,postgres,mongodb" /> |
+<b>Aether — Real-Time Distributed Logistics Engine</b>
 
-</div>
+<p>
+Dispatch is not CRUD.<br/>
+It is a streaming, stateful decision problem under strict latency constraints.
+</p>
 
----
+<ul>
+  <li>Kafka-backed event backbone</li>
+  <li>gRPC microservices with strict service contracts</li>
+  <li>Redis for real-time fleet and order state</li>
+  <li>PostgreSQL for durability and analytical workloads</li>
+  <li>AI models embedded directly in the decision loop</li>
+  <li>Operator command-center interface for live overrides</li>
+</ul>
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Event_Driven-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Latency-Bounded-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scale-Horizontal-success?style=for-the-badge" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vanshtaneja23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanshtaneja23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="180" alt="languages graph" />
-</div>
+🔗 https://github.com/vanshtaneja23/Aether
 
-<br>
+<hr/>
+
+<h2>Micro-Netflix</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOxf0qCt4pfpq1GaQ/giphy.gif" width="80%" />
+</p>
+
+<b>Event-Driven Video Streaming Platform</b>
+
+<ul>
+  <li>Asynchronous transcoding pipelines</li>
+  <li>Queue-isolated workloads</li>
+  <li>Object-storage-backed scalability</li>
+  <li>Container-first deployment model</li>
+</ul>
+
+🔗 https://github.com/vanshtaneja23/micro-netflix
+
+<hr/>
+
+<h2>Experience</h2>
+
+<b>Co-Founder — Nexus</b>
+<ul>
+  <li>AI support platform built with FastAPI and PostgreSQL</li>
+  <li>GPT-4o integrated behind production safety guardrails</li>
+  <li>Automation designed for reliability and failure containment</li>
+</ul>
+
+<b>Research Assistant — Data Engineering</b>
+<ul>
+  <li>ETL pipelines operating over <b>50M+ records</b></li>
+  <li>Fault tolerance, retries, and data validation</li>
+  <li>Correctness prioritized over raw throughput</li>
+</ul>
+
+<b>Teaching Assistant — Artificial Intelligence</b>
+<ul>
+  <li>Search, planning, and reinforcement learning</li>
+  <li>Mentored 200+ students in algorithmic reasoning</li>
+</ul>
+
+<hr/>
+
+<h2>Engineering Telemetry</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vanshtaneja23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanshtaneja23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+</p>
 
 
-<div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
-</div>
 
----
+<hr/>
 
-<div align="center">
-  <p><i>"The best way to predict the future is to invent it."</i></p>
-</div>
+<h2>Toolchain</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,java,cs,cpp,docker,kubernetes,aws,kafka,redis,postgres,pytorch&perline=6" />
+</p>
+
+<hr/>
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+<hr/>
+
+<h2 align="center">Recruiter Note</h2>
+
+<p align="center">
+I operate with ownership.<br/>
+I design for scale and failure.<br/>
+I ship production systems.
+</p>
+
+<p align="center">
+<b>Roles:</b><br/>
+Software Engineering Intern • Backend / Distributed Systems • AI Engineer
+</p>
+
+<p align="center">
+<b>Contact:</b> vanshtaneja23@gmail.com
+</p>
+
+<p align="center">
+<i>Serious systems. Real constraints. No theatrics.</i>
+</p>
