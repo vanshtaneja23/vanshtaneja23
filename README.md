@@ -9,7 +9,7 @@ Software Engineer • AI Systems • Distributed Infrastructure
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="50%" />
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="50%" target="_blank" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ focus:
   - AI under latency constraints
 </pre>
 
-<b>I don’t build demos.</b><br/>
+<b>I don’t build demos.</b><br/> a
 <b>I design systems with explicit failure modes.</b>
 
 <hr/>
@@ -53,7 +53,7 @@ focus:
 <h2>Active System — Aether</h2>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/4x4-afn-worldpartners-ibkOFH3P9rGk7tKn4z" width="50%" />
+  <img src="dashboard.png" width="70%" target="_blank" />
 </p>
 
 <b>Aether — Real-Time Distributed Logistics Engine</b>
@@ -86,7 +86,7 @@ It is a streaming, stateful decision problem under strict latency constraints.
 <h2>Micro-Netflix</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxf0qCt4pfpq1GaQ/giphy.gif" width="80%" />
+  <img src="https://media.giphy.com/media/xUOxf0qCt4pfpq1GaQ/giphy.gif" width="80%" target="_blank"/>
 </p>
 
 <b>Event-Driven Video Streaming Platform</b>
