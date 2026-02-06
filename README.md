@@ -14,7 +14,7 @@ Software Engineer • AI Systems • Distributed Infrastructure
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vanshtaneja23&label=Profile+Views&style=for-the-badge&color=0d1117" />
-  <img src="https://img.shields.io/github/following/vanshtaneja23?style=for-the-badge&color=0d1117" />
+  <img src="https://img.shields.io/github/followers/vanshtaneja23?style=for-the-badge&color=0d1117" />
 </p>
 
 <p align="center">
