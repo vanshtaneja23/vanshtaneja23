@@ -102,29 +102,96 @@ It is a streaming, stateful decision problem under strict latency constraints.
 
 <hr/>
 
+
+<h2>SocialDistribution — CMPUT 404</h2>
+
+<b>Federated Social Networking (ActivityPub-style)</b>
+
+<p>
+Multi-node, REST-first. Entries, likes, and comments flow node-to-node via inbox APIs.
+</p>
+
+<ul>
+  <li>RESTful API with full spec compliance; pagination, auth, visibility (public/unlisted/friends)</li>
+  <li>Node-to-node federation: follow requests, entries, likes, comments pushed to remote inboxes</li>
+  <li>PostgreSQL-backed; single-server-per-node deployment model</li>
+  <li>Every endpoint tested and documented; interop with multiple teams' nodes</li>
+</ul>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API-REST-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Federated-critical?style=for-the-badge" />
+</p>
+
+
+
+<hr/>
+
+<h2>Tartan Smart Home — CMPUT 402</h2>
+
+<b>Software Quality • Java REST Service • IoT Platform</b>
+
+<p>
+Evaluating and extending an existing Java service layer. Quality and testability over new features.
+</p>
+
+<ul>
+  <li>Java, Dropwizard/Jersey — RESTful state and update APIs for smart-home nodes</li>
+  <li>Integration with IoT controller and historian; state consistency and failure recovery</li>
+  <li>Focus: testing, requirements validation, and improving a legacy codebase</li>
+</ul>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Stack-Java_•_REST-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Quality_&_Testing-critical?style=for-the-badge" />
+</p>
+
+🔗 https://github.com/cmput402/w26-tartan-w001
+
+<hr/>
+
 <h2>Experience</h2>
 
-<b>Co-Founder — Nexus</b>
+<b>Co-Founder & Full-Stack / AI Engineer — Nexus</b> <i>Oct 2025 – Present · Edmonton, AB</i>
 <ul>
-  <li>AI support platform built with FastAPI and PostgreSQL</li>
-  <li>GPT-4o integrated behind production safety guardrails</li>
-  <li>Automation designed for reliability and failure containment</li>
+  <li>Production FastAPI backend with PostgreSQL (Supabase), JWT auth, RBAC, 35+ REST endpoints; cloud file storage; structured logging and monitoring</li>
+  <li>GPT-4o with guardrails (rate limiting, PII filtering, retry logic); LLM inference pipeline with token/latency monitoring; reduced manual support workload by ~80%</li>
+  <li>End-to-end automation: email ingestion → context retrieval → generation; async workers; webhook-based multi-channel (web, email via AWS SES/SendGrid)</li>
+  <li>React (Next.js) admin dashboards, real-time updates, threaded email view</li>
+  <li>Agile sprints, code reviews, full lifecycle; CI/CD (GitHub Actions), AWS (EC2/SES)</li>
 </ul>
 
-<b>Research Assistant — Data Engineering</b>
+<b>Software Development Intern — Vita Actives</b> <i>May 2024 – Aug 2024 · Remote</i>
 <ul>
-  <li>ETL pipelines operating over <b>50M+ records</b></li>
-  <li>Fault tolerance, retries, and data validation</li>
-  <li>Correctness prioritized over raw throughput</li>
+  <li>Flask microservices on AWS EC2 (Docker, Nginx); reduced manual reporting time by ~30%</li>
+  <li>REST APIs with JWT auth and structured logging; React + PostgreSQL dashboards for 100+ internal users</li>
+  <li>CI/CD (GitHub Actions): automated testing (Jest/PyTest), Docker builds, deployments</li>
+  <li>Monitoring and health checks; large reduction in unhandled production errors</li>
+  <li>Scrum team: code reviews, API docs (Jira, Git); investigated and fixed defects</li>
 </ul>
 
-<b>Teaching Assistant — Artificial Intelligence</b>
+<b>Data Science Intern — Vita Actives</b> <i>May 2023 – Aug 2023 · Remote</i>
 <ul>
-  <li>Search, planning, and reinforcement learning</li>
-  <li>Mentored 200+ students in algorithmic reasoning</li>
+  <li>Predictive models (Random Forest, XGBoost) for demand and inventory planning; time-series for restocking and trend forecasting</li>
+  <li>Customer segmentation (K-Means, DBSCAN); identified high-value user cohorts</li>
+  <li>NLP (tokenization, sentiment analysis) on customer feedback; extracted product insights</li>
+</ul>
+
+<b>Research Assistant — Data Engineering</b> <i>Feb 2025 – Mar 2025 · University of Alberta (ACLMR)</i>
+<ul>
+  <li>Python ETL: 50M+ records from SEMrush API across 6,000+ domains; checkpointing and fault-tolerant batch jobs</li>
+  <li>Partitioning (US, CA, ROW) around API rate limits; schema validation, cleaning, serialization for downstream ML</li>
+  <li>Validation scripts for data integrity and SQL analytics; collaborated with faculty on schemas and research goals</li>
+</ul>
+
+<b>Teaching Assistant — Introduction to AI (CMPUT 261)</b> <i>Winter 2026 · University of Alberta</i>
+<ul>
+  <li>Labs for 200+ students: search algorithms, reinforcement learning, Python; mentored on algorithms and code quality</li>
+  <li>Code review for correctness and efficiency; structured feedback; clear explanation of complex AI concepts</li>
 </ul>
 
 <hr/>
+
 
 <h2>Engineering Telemetry</h2>
 
