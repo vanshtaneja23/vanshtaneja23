@@ -195,5 +195,5 @@ Software Engineering Intern • Backend / Distributed Systems • AI Engineer
 </p>
 
 <p align="center">
-<i>Serious systems. Real constraints. No theatrics.</i>
+<i>Passionate about ownership, designing for scale, and shipping resilient systems</i>
 </p>
