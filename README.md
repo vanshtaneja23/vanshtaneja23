@@ -148,47 +148,6 @@ Evaluating and extending an existing Java service layer. Quality and testability
 
 🔗 https://github.com/cmput402/w26-tartan-w001
 
-<hr/>
-
-<h2>Experience</h2>
-
-<b>Co-Founder & Full-Stack / AI Engineer — Nexus</b> <i>Oct 2025 – Present · Edmonton, AB</i>
-<ul>
-  <li>Production FastAPI backend with PostgreSQL (Supabase), JWT auth, RBAC, 35+ REST endpoints; cloud file storage; structured logging and monitoring</li>
-  <li>GPT-4o with guardrails (rate limiting, PII filtering, retry logic); LLM inference pipeline with token/latency monitoring; reduced manual support workload by ~80%</li>
-  <li>End-to-end automation: email ingestion → context retrieval → generation; async workers; webhook-based multi-channel (web, email via AWS SES/SendGrid)</li>
-  <li>React (Next.js) admin dashboards, real-time updates, threaded email view</li>
-  <li>Agile sprints, code reviews, full lifecycle; CI/CD (GitHub Actions), AWS (EC2/SES)</li>
-</ul>
-
-<b>Software Development Intern — Vita Actives</b> <i>May 2024 – Aug 2024 · Remote</i>
-<ul>
-  <li>Flask microservices on AWS EC2 (Docker, Nginx); reduced manual reporting time by ~30%</li>
-  <li>REST APIs with JWT auth and structured logging; React + PostgreSQL dashboards for 100+ internal users</li>
-  <li>CI/CD (GitHub Actions): automated testing (Jest/PyTest), Docker builds, deployments</li>
-  <li>Monitoring and health checks; large reduction in unhandled production errors</li>
-  <li>Scrum team: code reviews, API docs (Jira, Git); investigated and fixed defects</li>
-</ul>
-
-<b>Data Science Intern — Vita Actives</b> <i>May 2023 – Aug 2023 · Remote</i>
-<ul>
-  <li>Predictive models (Random Forest, XGBoost) for demand and inventory planning; time-series for restocking and trend forecasting</li>
-  <li>Customer segmentation (K-Means, DBSCAN); identified high-value user cohorts</li>
-  <li>NLP (tokenization, sentiment analysis) on customer feedback; extracted product insights</li>
-</ul>
-
-<b>Research Assistant — Data Engineering</b> <i>Feb 2025 – Mar 2025 · University of Alberta (ACLMR)</i>
-<ul>
-  <li>Python ETL: 50M+ records from SEMrush API across 6,000+ domains; checkpointing and fault-tolerant batch jobs</li>
-  <li>Partitioning (US, CA, ROW) around API rate limits; schema validation, cleaning, serialization for downstream ML</li>
-  <li>Validation scripts for data integrity and SQL analytics; collaborated with faculty on schemas and research goals</li>
-</ul>
-
-<b>Teaching Assistant — Introduction to AI (CMPUT 261)</b> <i>Winter 2026 · University of Alberta</i>
-<ul>
-  <li>Labs for 200+ students: search algorithms, reinforcement learning, Python; mentored on algorithms and code quality</li>
-  <li>Code review for correctness and efficiency; structured feedback; clear explanation of complex AI concepts</li>
-</ul>
 
 <hr/>
 
