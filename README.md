@@ -44,7 +44,7 @@ focus:
   - AI under latency constraints
 </pre>
 
-<b>I don’t build demos.</b><br/> a
+<b>I don’t build demos.</b><br/> 
 <b>I design systems with explicit failure modes.</b>
 
 <hr/>
@@ -180,14 +180,14 @@ Evaluating and extending an existing Java service layer. Quality and testability
 <h2 align="center">Recruiter Note</h2>
 
 <p align="center">
-I operate with ownership.<br/>
-I design for scale and failure.<br/>
-I ship production systems.
+I take ownership of systems end-to-end.<br/>
+I design for scale, reliability, and real-world constraints.<br/>
+I build software that combines distributed systems with AI and machine learning.
 </p>
 
 <p align="center">
 <b>Roles:</b><br/>
-Software Engineering Intern • Backend / Distributed Systems • AI Engineer
+Software Engineering Intern • Backend / Distributed Systems • AI / ML Engineer
 </p>
 
 <p align="center">
@@ -195,5 +195,5 @@ Software Engineering Intern • Backend / Distributed Systems • AI Engineer
 </p>
 
 <p align="center">
-<i>Passionate about ownership, designing for scale, and shipping resilient systems</i>
+<i>Interested in building scalable infrastructure, intelligent systems, and production-ready AI.</i>
 </p>
