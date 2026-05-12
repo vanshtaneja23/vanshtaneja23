@@ -146,7 +146,6 @@ Evaluating and extending an existing Java service layer. Quality and testability
   <img src="https://img.shields.io/badge/Focus-Quality_&_Testing-critical?style=for-the-badge" />
 </p>
 
-🔗 https://github.com/cmput402/w26-tartan-w001
 
 
 <hr/>
