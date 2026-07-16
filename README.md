@@ -44,7 +44,7 @@ focus:
   - AI under latency constraints
 </pre>
 
-<b>I don’t build demos.</b><br/> 
+<b>I don’t just build demos.</b><br/> 
 <b>I design systems with explicit failure modes.</b>
 
 <hr/>
