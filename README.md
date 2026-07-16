@@ -149,7 +149,21 @@ Evaluating and extending an existing Java service layer. Quality and testability
 
 
 <hr/>
+<h2>Open Source & Current Builds</h2>
 
+<ul>
+  <li><b>LiteLLM</b> — fixed a Gemini bug causing HTTP 500s, independently verified by an affected user (<a href="https://github.com/BerriAI/litellm/pull/32545">PR #32545</a>, <a href="https://github.com/BerriAI/litellm/pull/31505">#31505</a>)</li>
+  <li><b>Neural Playground</b> — MLP + backprop from scratch in pure JS, trains live in-browser (<a href="https://vanshtaneja23.github.io/neuralplayground/">Live Demo</a> · <a href="https://github.com/vanshtaneja23/neuralplayground">repo</a>)</li>
+  <li><b>LLM Orchestrator</b> — self-hosted LLM gateway, SQLite request logging, tested failure paths (<a href="https://github.com/vanshtaneja23/llm-orchestrator">repo</a>)</li>
+</ul>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_Source-LiteLLM-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/From_Scratch-Neural_Playground-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI-Passing-success?style=for-the-badge" />
+</p>
+
+<hr/>
 
 <h2>Engineering Telemetry</h2>
 
